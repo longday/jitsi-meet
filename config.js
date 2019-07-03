@@ -261,6 +261,7 @@ var config = {
 
     // Default language for the user interface.
     // defaultLanguage: 'en',
+    defaultLanguage: 'ru',
 
     // If true all users without a token will be considered guests and all users
     // with token will be considered non-guests. Only guests will be allowed to
